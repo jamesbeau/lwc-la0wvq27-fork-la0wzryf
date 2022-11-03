@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jamesbeau.lwc-la0wvq27-fork-la0wzryf",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve izxtvV6bnAvcojygnU4m --open"
+  }
+}
